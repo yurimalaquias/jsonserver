@@ -2,7 +2,8 @@
 JSON Server criado para estudos.
 > Esse documento esta disponível para estudos, qualquer sugestão é bem vinda. :)
 
-## Instalar NodeJS (LTS) - HTTPS://NODEJS.ORG/EN/DOWNLOAD/
+## Instalar NodeJS (LTS)
+> https://nodejs.org/en/download/
 `$ node -v | $ npm -v`
 
 ## Instalar JSON-Server
@@ -13,6 +14,8 @@ JSON Server criado para estudos.
 `$ cd jsonserver`
 
 ## Criar arquivo db.json
+> http://localhost:3000/people/ 
+
 `$ touch db.json`
 ```
 {
@@ -48,9 +51,8 @@ module.exports = function() {
 `$ json-server generate.js`
 
 
-
 ## Dependencias
 
-* [JSONServer](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Faker](https://maven.apache.org/) - Dependency Management
-* [Lodash](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [JSONServer](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+* [Faker](https://github.com/Marak/Faker.js) - generate massive amounts of fake data in Node.js and the browser
+* [Lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras. https://lodash.com/
