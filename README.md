@@ -1,4 +1,4 @@
-# jsonserver
+# JSON SERVER
 JSON Server criado para estudos.
 > Esse documento esta disponível para estudos, qualquer sugestão é bem vinda. :)
 
