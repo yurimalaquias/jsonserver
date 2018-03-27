@@ -56,3 +56,5 @@ module.exports = function() {
 * [JSONServer](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 * [Faker](https://github.com/Marak/Faker.js) - generate massive amounts of fake data in Node.js and the browser
 * [Lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras. https://lodash.com/
+
+> ou dane-se tudo isso e use o * [JSON PLACEHOLDER] (http://jsonplaceholder.typicode.com/)
